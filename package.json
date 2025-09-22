@@ -1,0 +1,21 @@
+{
+  "name": "helloGilang",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.75.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@react-native-community/cli": "^20.0.2",
+    "@react-native-community/cli-platform-android": "^12.3.6",
+    "jest": "^29.0.0"
+  }
+}
